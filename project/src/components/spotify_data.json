@@ -1,0 +1,2758 @@
+{
+    "albums": {
+        "totalCount": 162,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:album:6xRxlUUfg3M0QB1LUX89gA",
+                    "name": "DATA",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB",
+                                "profile": {
+                                    "name": "Tainy"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02de7b9af78fbdda96c5a0635b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851de7b9af78fbdda96c5a0635b",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:7ox0X6W9rsoMdGLmjuBtfs",
+                    "name": "DADA (Original Motion Picture Soundtrack)",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:1jnYex347Mx1pD9r6JtNhO",
+                                "profile": {
+                                    "name": "Jen Martin"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e025c9c2ce5548bfef85614847b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048515c9c2ce5548bfef85614847b",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2735c9c2ce5548bfef85614847b",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:0tqiftjjP81odLWXCrhmUD",
+                    "name": "Dada (feat. Davido) [Remix]",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+                                "profile": {
+                                    "name": "Young Jonn"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:0Y3agQaa6g2r0YmHPOO9rh",
+                                "profile": {
+                                    "name": "Davido"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02bb888232ebe4732a3e541031",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851bb888232ebe4732a3e541031",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273bb888232ebe4732a3e541031",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2022
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:4vCVIpLHYqNrUTfdBv3J6Q",
+                    "name": "Puzzle",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3bFhgZ2r1FAFu0XyttZYKl",
+                                "profile": {
+                                    "name": "Dada"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02810962ff74925a4b1c206460",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851810962ff74925a4b1c206460",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273810962ff74925a4b1c206460",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1992
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:5SL2zfz4yRv5kjNFa30fOF",
+                    "name": "dadaism#3",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:65u1WZsa68wCWFOexGZuz1",
+                                "profile": {
+                                    "name": "DADAROMA"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0271aceb051ae3972d350297f8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485171aceb051ae3972d350297f8",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27371aceb051ae3972d350297f8",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2017
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:6aKTFjYsuCibBJFyW7q1RN",
+                    "name": "Phenomena (DA DA) [Live]",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7m4gF38CPATtHrk5HS42WZ",
+                                "profile": {
+                                    "name": "Hillsong Young & Free"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e022b9016d92fd64b20a808fb3b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048512b9016d92fd64b20a808fb3b",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2732b9016d92fd64b20a808fb3b",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2021
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:0ogWb5mN0ZG6U1aMX7r4ai",
+                    "name": "Dada",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+                                "profile": {
+                                    "name": "Young Jonn"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e028a6ac9a40bdbb616a1a518f4",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d000048518a6ac9a40bdbb616a1a518f4",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b2738a6ac9a40bdbb616a1a518f4",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2022
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:7zDGdVBMWF1aow5ahxPfJl",
+                    "name": "2 Lane Road: To Glory",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3ZkPinm0JEOq2rxTGQvO0b",
+                                "profile": {
+                                    "name": "DaDa1k"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:59aTERbB57IAL8AZ42lHNs",
+                                "profile": {
+                                    "name": "GBF King"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e0231fe4c072e68c64508d2652d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000485131fe4c072e68c64508d2652d",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b27331fe4c072e68c64508d2652d",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2020
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:3ATX0J4SbpaC7LFs4mTa1L",
+                    "name": "dada",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3bFhgZ2r1FAFu0XyttZYKl",
+                                "profile": {
+                                    "name": "Dada"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02e570a5df44ae031d70725d7d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851e570a5df44ae031d70725d7d",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273e570a5df44ae031d70725d7d",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 1998
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:2dC0CxwPb1YjjB9Ergw2fG",
+                    "name": "Dada",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:5q3Rqu9idb7essQqKJ7SOa",
+                                "profile": {
+                                    "name": "B Boys"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02f501ea8987f39247de884c92",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851f501ea8987f39247de884c92",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273f501ea8987f39247de884c92",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2017
+                    }
+                }
+            }
+        ]
+    },
+    "artists": {
+        "totalCount": 16,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:3ZkPinm0JEOq2rxTGQvO0b",
+                    "profile": {
+                        "name": "DaDa1k"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb2e5600bd305646888c0fc05b",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1782e5600bd305646888c0fc05b",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051742e5600bd305646888c0fc05b",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:00sAT5YX8W3xNd1EuqyHw9",
+                    "profile": {
+                        "name": "Dada Life"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb0c274e2feb414570846f9d61",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1780c274e2feb414570846f9d61",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051740c274e2feb414570846f9d61",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:65u1WZsa68wCWFOexGZuz1",
+                    "profile": {
+                        "name": "DADAROMA"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb5b359782b62c0ea6e7013cd7",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1785b359782b62c0ea6e7013cd7",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051745b359782b62c0ea6e7013cd7",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:3bFhgZ2r1FAFu0XyttZYKl",
+                    "profile": {
+                        "name": "Dada"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb4737ac421854e1c8c37d769c",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1784737ac421854e1c8c37d769c",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051744737ac421854e1c8c37d769c",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:5YVpCleE4Ysa6YRa66nzIN",
+                    "profile": {
+                        "name": "DADARAY"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb37f7e37ee40c68392c4051dd",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f17837f7e37ee40c68392c4051dd",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000517437f7e37ee40c68392c4051dd",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:7prKK2GchmQEkgUsAFXEz0",
+                    "profile": {
+                        "name": "Dada"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb4b9d699bc0f9f9bf8c55e0d2",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1784b9d699bc0f9f9bf8c55e0d2",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051744b9d699bc0f9f9bf8c55e0d2",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:36SRwzRkX5zW3ABjJrevqX",
+                    "profile": {
+                        "name": "Dad\u00e1 Bolad\u00e3o"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb41f12eddfb02c5f65e5037ff",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f17841f12eddfb02c5f65e5037ff",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000517441f12eddfb02c5f65e5037ff",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:7IS31MnxPnYaDKlFRZ3pdt",
+                    "profile": {
+                        "name": "gulu gulu"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb7e863631369aaddd8f72efea",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1787e863631369aaddd8f72efea",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051747e863631369aaddd8f72efea",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:2QF32DIGMm8AsGONz6JLTe",
+                    "profile": {
+                        "name": "Dada P"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5ebe043661bdab5e5571f42a130",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f178e043661bdab5e5571f42a130",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616100005174e043661bdab5e5571f42a130",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:artist:6Xx653QgibdcjA4RfW6iyU",
+                    "profile": {
+                        "name": "Dadawah"
+                    },
+                    "visuals": {
+                        "avatarImage": null
+                    }
+                }
+            }
+        ]
+    },
+    "episodes": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:episode:2HmZlGRvAioVXBm0Sg1Hui",
+                    "name": "Thank you for shopping with Dada Go! | SCP-4525",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d7e58ffe0886b9650617a34ed",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f7e58ffe0886b9650617a34ed",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a7e58ffe0886b9650617a34ed",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 1733929
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-06-01T16:45:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d7e58ffe0886b9650617a34ed",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f7e58ffe0886b9650617a34ed",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a7e58ffe0886b9650617a34ed",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "SCP Foundation EUCLID class object,\u00a0SCP-4525: Thank you for shopping with Dada Go!  This story was derived from https://scp-wiki.wikidot.com/scp-4525, and is released under Creative Commons Sharealike 3.0. https://creativecommons.org/licenses/by-sa/3.0/  Author: Lucas Click Check out the Author's work here: newpulptales.com  DISCLAIMER: This episode contains explicit content. Parental guidance is advised for children under the age of 18. Listen at your own discretion.  #drscp #scp #scpfoundation #doctorscp #scpencounters #securecontainprotect #scpstories #scpexplained #whatisscp Learn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:6GCtV4cHVywIslglx13aVi",
+                    "name": "Episode 371: \"Sinarapan\" (The Dada Story)",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dc52bb0ce02e618d35e88e625",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fc52bb0ce02e618d35e88e625",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ac52bb0ce02e618d35e88e625",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 4017400
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-06-02T04:30:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68dc52bb0ce02e618d35e88e625",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1fc52bb0ce02e618d35e88e625",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8ac52bb0ce02e618d35e88e625",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "\"At bakit naman ako mapapagod eh ito ang gusto kong gawin. Ang magluluto ng masasarap na meryenda. Kita mo naman oh araw-araw nauubos ang mga paninda ko. Ibig sabihin, gustong-gusto ito ng mga customer ko.\" #DearMORSinarapan - The Dada Story    Follow us:  Youtube: https://www.youtube.com/c/MOREntertainment  Twitter: https://www.twitter.com/MORentPH  Instagram: https://www.instagram.com/morentertainmentph ",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0ghuPguRygytpxxYMVHX5K",
+                    "name": "Dadaism",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d04a40dbe7d8eb493bf91abb1",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f04a40dbe7d8eb493bf91abb1",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a04a40dbe7d8eb493bf91abb1",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 781949
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-06-17T09:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d04a40dbe7d8eb493bf91abb1",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f04a40dbe7d8eb493bf91abb1",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a04a40dbe7d8eb493bf91abb1",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "In the middle of the first world war, a group of artists, poets, and philosophers created an artistic and intellectual movement in response to the war.\u00a0 While the movement itself didn\u2019t last very long, its legacy of it laid the foundation for modern art in the 20th century, and can still be seen in modern art today. Learn more about Dadaism, what it was, and its legacy on this episode of Everything Everywhere Daily.  Sponsors Expedition Unknown\u00a0 Find out the truth behind popular, bizarre legends. Expedition Unknown, a podcast from Discovery, chronicles the adventures of Josh Gates as he investigates unsolved iconic stories across the globe. With direct audio from the hit TV show, you\u2019ll hear Gates explore stories like the disappearance of Amelia Earhart in the South Pacific and the location of Captain Morgan's treasure in Panama. These authentic, roughshod journeys help Gates separate fact from fiction and learn the truth behind these compelling stories. \u00a0 InsideTracker provides a personal health analysis and data-driven wellness guide to help you add years to your life\u2014and life to your years. Choose a plan that best fits your needs to get your comprehensive biomarker analysis, customized Action Plan, and customer-exclusive healthspan resources. For a limited time, Everything Everywhere Daily listeners can get 20% off InsideTracker\u2019s new Ultimate Plan. Visit InsideTracker.com/eed.  Subscribe to the podcast!\u00a0 https://link.chtbl.com/EverythingEverywhere?sid=ShowNotes -------------------------------- Executive Producer: Charles Daniel Associate Producers: Peter Bennett & Thor Thomsen \u00a0 Become a supporter on Patreon: https://www.patreon.com/everythingeverywhere  Update your podcast app at newpodcastapps.com  Discord Server: https://discord.gg/UkRUJFh Instagram: https://www.instagram.com/everythingeverywhere/ Facebook Group: https://www.facebook.com/groups/everythingeverywheredaily Twitter: https://twitter.com/everywheretrip Website: https://everything-everywhere.com/ Learn more about your ad choices. Visit megaphone.fm/adchoices",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:73T9tNxDq7zQBF43pbBO5D",
+                    "name": "Te ha sido dada una promesa",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68db90b94019dd8c1dcbfb96d1c",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fb90b94019dd8c1dcbfb96d1c",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ab90b94019dd8c1dcbfb96d1c",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 1697933
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-07-13T04:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d1228e8e18669978cd612c6e8",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f1228e8e18669978cd612c6e8",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a1228e8e18669978cd612c6e8",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Entender las promesas de Dios afectar\u00e1 todas las \u00e1reas de nuestra vida, ellas son el combustible para la esperanza de seguir adelante. Acomp\u00e1\u00f1anos.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:0J0iek6HFu9S7evA8Gmph5",
+                    "name": "TMP - DADADA BABABOO",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/cfec86eca34639ffe53ebd17a02dbab9199cd46c",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/5e68a97e344027923886981297e6b7c46780349d",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ad387e8c6b9af8dbc0c0eb5e99448ae904371c6f",
+                                "width": 400,
+                                "height": 400
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 766093
+                    },
+                    "releaseDate": {
+                        "isoString": "2014-07-15T08:39:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ff376fdbfa3775851ed340ce6a2c059e062e71d0",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/76259b86663cc649f944957589bcc453d5ce57ca",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/952221c214559a41ec8d9265a2ef4166b12b2332",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Bryan and Chris attempt to unravel the mystery and magic of love. Will goes, DADADA BABABOO!!",
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:4oJrN9unhjOWapopHzxib2",
+                    "name": "Samah Dada Is Begging You to Season Your Veggies",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dcd67d468cee52b16ed4ec915",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fcd67d468cee52b16ed4ec915",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8acd67d468cee52b16ed4ec915",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 2724702
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-07-28T07:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68dcd67d468cee52b16ed4ec915",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1fcd67d468cee52b16ed4ec915",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8acd67d468cee52b16ed4ec915",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Content creator Samah Dada talks about the evolution of how cataloging her meals turned into a full time venture with @DadaEats. Samah describes her \u201caccidental\u201d cooking style and how she incorporates her plant-based lifestyle with the flavors of her Indian heritage. She talks about her most significant culinary influences and minimal approach to meals. Samah pleads for those who are bored with vegetables to stop steaming and start seasoning and why eating dinner together every night with her family made her a mindful eater. Jaymee and Samah relate to the pressure and vulnerability of sharing your life on the internet and Samah offers advice for aspiring culinary creators and cookbook authors.\u00a0Follow Food Network on Instagram: https://www.instagram.com/foodnetworkFollow Jaymee Sire on Instagram: https://www.instagram.com/jaymeesireFollow Samah Dada on Instagram: https://www.instagram.com/dadaeats/Watch Samah\u2019s Crack An Egg With Episode: https://www.foodnetwork.com/shows/crack-an-egg-with/episodes/crack-an-egg-with-samah-dadaFind episode transcripts here: https://food-network-obsessed.simplecast.com/episodes/samah-dada-is-begging-you-to-season-your-veggies",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:1uYLKWjH4BnekVcfzn8kqL",
+                    "name": "Ep. 25 - Alien Sex, DaDADA!",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d1f931b03267a2edb3ff74b02",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f1f931b03267a2edb3ff74b02",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a1f931b03267a2edb3ff74b02",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 4638589
+                    },
+                    "releaseDate": {
+                        "isoString": "2020-10-14T12:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68dfdb65f52696f413010b80b58",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1ffdb65f52696f413010b80b58",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8afdb65f52696f413010b80b58",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "This week Cassidy covers the murder of journalist Addison Verrill, the Bag Murders of New York, and how it's all connected to cult classic film The Exorcist. Amanda takes a leap head first into of a pool of weird by covering the strange abduction of Ant\u00f4nio Villas Boas.\u00a0 \u00a0 Stay tuned to the end for this week's bloopers and a special promo from our pals over at Hashtag History Podcast! \u00a0 Want more Drinking the Koolaid? Check out our website and blog here!",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:7h9Mpl2eJ11wnAYXpAE4hO",
+                    "name": "Guest co-host for the week: Matt Dadas (recording from SFG 1.1 Million @ US 131)",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dfe245c7d2144eb3b17610586",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1ffe245c7d2144eb3b17610586",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8afe245c7d2144eb3b17610586",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 3588656
+                    },
+                    "releaseDate": {
+                        "isoString": "2023-06-30T07:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68dfe245c7d2144eb3b17610586",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1ffe245c7d2144eb3b17610586",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8afe245c7d2144eb3b17610586",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Luke is joined by special guest Matt Dadas to recap some of the major results from the previous week and to preview the SFG 1.1 Million at U.S. 131 Motorsports Park. They discussed the NHRA National event, as well as \"The Hoot\" at Dragway 42. They also predict SFG and WFC winners! Tune in now!\u00a0",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:6xCOSgcLC74zhBvBR20GzV",
+                    "name": "EP.4 | ROOMIES FROM HELL | FT DADA",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d62e391e859821ff10a5f19ab",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f62e391e859821ff10a5f19ab",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a62e391e859821ff10a5f19ab",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 3906507
+                    },
+                    "releaseDate": {
+                        "isoString": "2022-05-09T08:53:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d630e8b7f0ea261441178069b",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f630e8b7f0ea261441178069b",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a630e8b7f0ea261441178069b",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Enchiladitaaaaaas!!!!!! que se arme !!!! Ya llegamos! Y hoy les traemos a nuestro padrino oficial!!!! Se logr\u00f3 enchiladitas!!! nos trajimos a Edgardo Arredondo \"Dada\" \u00a0 Se puso bien super mega sabroso por que les platicamos todas nuestras historias viviendo con otras personitas y despu\u00e9s hicimos un juego que aaaaaah caray como se puso sabroso. Bienvenidxs todxs!!! \u00a0PAYPAL: \u00a0https://www.paypal.com/paypalme/enchi... INSTAGRAM: @Paco Del Mazo \u00a0@pacodelmazo \u00a0\u00a0@Deskrados Oficial \u00a0@lamasdeskrada \u00a0Producci\u00f3n: \u00a0@La H. Plataforma",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:episode:3v1CIOJti9jq1MXv81KOlv",
+                    "name": "Ter\u00e7o da Divina Provid\u00eancia",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d26dca002a98888c2af324d99",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f26dca002a98888c2af324d99",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a26dca002a98888c2af324d99",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "duration": {
+                        "totalMilliseconds": 721235
+                    },
+                    "releaseDate": {
+                        "isoString": "2021-11-12T15:00:00Z"
+                    },
+                    "podcast": {
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000f68d26dca002a98888c2af324d99",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67656300005f1f26dca002a98888c2af324d99",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6765630000ba8a26dca002a98888c2af324d99",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        }
+                    },
+                    "description": "Com o Ter\u00e7o da Provid\u00eancia, rogamos a Deus que venha em nosso socorro em nossas afli\u00e7\u00f5es.",
+                    "contentRating": {
+                        "label": "NONE"
+                    }
+                }
+            }
+        ]
+    },
+    "genres": {
+        "totalCount": 0,
+        "items": []
+    },
+    "playlists": {
+        "totalCount": 19,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:03oYFMdo2UonAyGKEi16aW",
+                    "name": "Dada",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "kayliej33"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:0kqufEuGuxBCOaVzADZHyc",
+                    "name": "Dada da da da da da dadadadadadada",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e020342afb573caf5ac4abab391ab67616d00001e020609287c19d1d1d1210c8b42ab67616d00001e02600662e425774c9abd7508c2ab67616d00001e0260126b41dd8db7db9ce387ce",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e020342afb573caf5ac4abab391ab67616d00001e020609287c19d1d1d1210c8b42ab67616d00001e02600662e425774c9abd7508c2ab67616d00001e0260126b41dd8db7db9ce387ce",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e020342afb573caf5ac4abab391ab67616d00001e020609287c19d1d1d1210c8b42ab67616d00001e02600662e425774c9abd7508c2ab67616d00001e0260126b41dd8db7db9ce387ce",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "SpaceyVoid"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:6UIoTBGS3282b6oDwIZXdQ",
+                    "name": "dadali,papinka,asbak,dkk",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e0207bd0c96ae5941423f29ca3eab67616d00001e024e17a0a962eaf514a1548f28ab67616d00001e0255258a144c2c1425a829e277ab67616d00001e0261982c6bf51e0d26f877e259",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e0207bd0c96ae5941423f29ca3eab67616d00001e024e17a0a962eaf514a1548f28ab67616d00001e0255258a144c2c1425a829e277ab67616d00001e0261982c6bf51e0d26f877e259",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e0207bd0c96ae5941423f29ca3eab67616d00001e024e17a0a962eaf514a1548f28ab67616d00001e0255258a144c2c1425a829e277ab67616d00001e0261982c6bf51e0d26f877e259",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "James blo'on"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:4tS9CxoFdR1KfChVaDVlF4",
+                    "name": "Da Da DaDa Da SNOOP DOGG",
+                    "description": "i\u2019m beginning to feel like a rap god\u2026",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67706c0000da845f2ea1b1f3c132b34057ebf7",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "taylor johnson"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:1fI6Cd1zvMs8LLlO51K4yO",
+                    "name": "Dada Kondke Hit Song",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e02151a2c782dc7752f8e9fa985ab67616d00001e0241a2d9e4aea3c6b8e0e60487ab67616d00001e0272ec863648c2ae0140a5d78eab67616d00001e0278b73087a12adb861bd246f1",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e02151a2c782dc7752f8e9fa985ab67616d00001e0241a2d9e4aea3c6b8e0e60487ab67616d00001e0272ec863648c2ae0140a5d78eab67616d00001e0278b73087a12adb861bd246f1",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e02151a2c782dc7752f8e9fa985ab67616d00001e0241a2d9e4aea3c6b8e0e60487ab67616d00001e0272ec863648c2ae0140a5d78eab67616d00001e0278b73087a12adb861bd246f1",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Anishkumar S Paunikar"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:7iAJEumHHQ3gJ4YKd4iG6Q",
+                    "name": "All Beat Saber Songs",
+                    "description": "Queen songs at the bottom. (Edit: Minor update for The Weeknd came out. Find them next to his songs.)",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67706c0000da845b0f13f4df926b1e2ca4d61f",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "NotEmperorLevi"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:3CXSx5hbbyWPS8DvRBm8ZD",
+                    "name": "dada\u015f dada\u015f seslenirler erzurumun g\u00fczelleri ",
+                    "description": "gelir mi bir erzurum d\u00fc\u011f\u00fcn\u00fc",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67706c0000da842dda5c04c355df82b07ad5f3",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "a.b"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:5wLeqi8JXFS9g7MtFjUyTd",
+                    "name": "Dadadadadadadadadada",
+                    "description": "circle",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e02082845015f826a1b7297929aab67616d00001e0228a06123f27d9f01788308aeab67616d00001e026252116ae9c3f1dd7b103929ab67616d00001e02c95e78cf279f18f657d96d35",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e02082845015f826a1b7297929aab67616d00001e0228a06123f27d9f01788308aeab67616d00001e026252116ae9c3f1dd7b103929ab67616d00001e02c95e78cf279f18f657d96d35",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e02082845015f826a1b7297929aab67616d00001e0228a06123f27d9f01788308aeab67616d00001e026252116ae9c3f1dd7b103929ab67616d00001e02c95e78cf279f18f657d96d35",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Xeuler"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:1Xfdck8uY4d1zYi1Q75S6p",
+                    "name": "Dada lakmichand",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e020858b1dd1ba897a19d87627cab67616d00001e02c7ae0312017278c9c5de9dd3ab67616d00001e02d74b863de387159e048b8bbaab67616d00001e02f0e572ab7e61ff8215900694",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e020858b1dd1ba897a19d87627cab67616d00001e02c7ae0312017278c9c5de9dd3ab67616d00001e02d74b863de387159e048b8bbaab67616d00001e02f0e572ab7e61ff8215900694",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e020858b1dd1ba897a19d87627cab67616d00001e02c7ae0312017278c9c5de9dd3ab67616d00001e02d74b863de387159e048b8bbaab67616d00001e02f0e572ab7e61ff8215900694",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "prince"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:4F1y4He0p7DLxlUPHKaugy",
+                    "name": "dadaroma all songs",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://i.scdn.co/image/ab67706c0000da8408d9d7fe5c33497ca307fb92",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "\u22c6\u2671\u272e\u2671\u22c6"
+                    }
+                }
+            }
+        ]
+    },
+    "podcasts": {
+        "totalCount": 1000,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:show:3DFwOsryvNoewm1zjmyr4n",
+                    "name": "Dada ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/b05b08a84fc1ba6ad06af002b5b126bac0d786cd",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/6aa995e29da1335290f39e905b8fda6692389b3f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/a90ec518d4b62564be784051209e6dcf46c95af2",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Dada Podcast"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:14UdqEXUz9OMuEgWE2iL9t",
+                    "name": "Spiritual Discourses by Dada Bhagwan",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dc484fa174b9a3d516c5341d8",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fc484fa174b9a3d516c5341d8",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ac484fa174b9a3d516c5341d8",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Dada Bhagwan"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:5DGr7toEJYacRKI7nuxDcN",
+                    "name": "DaDa \u8aaa\u6545\u4e8b",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/93e4513b586ef7860e9ca053d62f8c00696ea1e7",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/89ea163bbbd0b350524171fc967d31bb923bd304",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/8e57df73e0ce8e5b24ad0cd584f821d04a4a2357",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "DaDa"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:5vApd2InF4jFhbgVUit0tb",
+                    "name": "dada\u3063\u3066\u8ab0\u3088\u2048\u8ab0\u304c\u8074\u3044\u3066\u3082\u3044\u3044\u30e9\u30b8\u30aa",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d576b221483f0d7b0e7811b10",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f576b221483f0d7b0e7811b10",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a576b221483f0d7b0e7811b10",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "dada"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:0SKIEskh0xfDV3bWapTqG7",
+                    "name": "De m\u00e3os dadas com Maria",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d26dca002a98888c2af324d99",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f26dca002a98888c2af324d99",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a26dca002a98888c2af324d99",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Sueli Baracho"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:6aKAHMcyottzSGQAo0j9AH",
+                    "name": "Dada",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d6047cf00b12af9ab1bcccb74",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f6047cf00b12af9ab1bcccb74",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a6047cf00b12af9ab1bcccb74",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Obinna Onike"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:0x5PuO3bOYjqgUM2SDyf1t",
+                    "name": "Dada Reading Stories",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68dc40070d78fb6c508894379e0",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1fc40070d78fb6c508894379e0",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8ac40070d78fb6c508894379e0",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Jonathan Powers"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:66slAOGud4HJ0kWFvXXzec",
+                    "name": "Dada",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/c600c64526f33191d4161b3e337f2c02da907d99",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/3a16c1a5f7433e1b5462fc09967c57ab9f6fabe2",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/984bbc0e1c83c5ad5e14dc51e1333fa0740001c3",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Zeinab Ghahremani"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:394zoq747jdecem0pbExuI",
+                    "name": "Kwentong Takipsilim Pinoy Horror Stories Podcast",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000f68d87107e366444ca578da2fd38",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67656300005f1f87107e366444ca578da2fd38",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab6765630000ba8a87107e366444ca578da2fd38",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Kwentong Takipsilim"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:4IJOkoU9dfw2axX14cdvXI",
+                    "name": "Dada",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/8cde6a674e73851c55f0817663bc945632afcaec",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/12da19e19ab6eec820a8cf00c9710779caabb286",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/3efe219805986777ec4936e22ff5f89b90eb6747",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Rokhaya Gueye"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            }
+        ]
+    },
+    "topResults": {
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:artist:3ZkPinm0JEOq2rxTGQvO0b",
+                    "profile": {
+                        "name": "DaDa1k"
+                    },
+                    "visuals": {
+                        "avatarImage": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000e5eb2e5600bd305646888c0fc05b",
+                                    "width": 640,
+                                    "height": 640
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab6761610000f1782e5600bd305646888c0fc05b",
+                                    "width": 160,
+                                    "height": 160
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab676161000051742e5600bd305646888c0fc05b",
+                                    "width": 320,
+                                    "height": 320
+                                }
+                            ]
+                        }
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:2IBrgYf3Hjw16c6oNwkZ9M",
+                    "id": "2IBrgYf3Hjw16c6oNwkZ9M",
+                    "name": "Dada (feat. Davido) [Remix]",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:0tqiftjjP81odLWXCrhmUD",
+                        "name": "Dada (feat. Davido) [Remix]",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bb888232ebe4732a3e541031",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bb888232ebe4732a3e541031",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bb888232ebe4732a3e541031",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "0tqiftjjP81odLWXCrhmUD",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD?si=_E6H5ZrjS6yFF649NI3vmQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+                                "profile": {
+                                    "name": "Young Jonn"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:0Y3agQaa6g2r0YmHPOO9rh",
+                                "profile": {
+                                    "name": "Davido"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 177692
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:03oYFMdo2UonAyGKEi16aW",
+                    "name": "Dada",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://mosaic.scdn.co/640/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 640,
+                                        "height": 640
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/300/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 300,
+                                        "height": 300
+                                    },
+                                    {
+                                        "url": "https://mosaic.scdn.co/60/ab67616d00001e026ee35072df1af802cca09918ab67616d00001e0274c46615ffd828a76c29298cab67616d00001e02e2aa84b988e58703f8ed4e84ab67616d00001e02fbf11f3850cf78b208685a54",
+                                        "width": 60,
+                                        "height": 60
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "kayliej33"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:album:6xRxlUUfg3M0QB1LUX89gA",
+                    "name": "DATA",
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0GM7qgcRCORpGnfcN2tCiB",
+                                "profile": {
+                                    "name": "Tainy"
+                                }
+                            }
+                        ]
+                    },
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00001e02de7b9af78fbdda96c5a0635b",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d00004851de7b9af78fbdda96c5a0635b",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/ab67616d0000b273de7b9af78fbdda96c5a0635b",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "date": {
+                        "year": 2023
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:show:3DFwOsryvNoewm1zjmyr4n",
+                    "name": "Dada ",
+                    "coverArt": {
+                        "sources": [
+                            {
+                                "url": "https://i.scdn.co/image/b05b08a84fc1ba6ad06af002b5b126bac0d786cd",
+                                "width": 64,
+                                "height": 64
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/6aa995e29da1335290f39e905b8fda6692389b3f",
+                                "width": 300,
+                                "height": 300
+                            },
+                            {
+                                "url": "https://i.scdn.co/image/a90ec518d4b62564be784051209e6dcf46c95af2",
+                                "width": 640,
+                                "height": 640
+                            }
+                        ]
+                    },
+                    "type": "PODCAST",
+                    "publisher": {
+                        "name": "Dada Podcast"
+                    },
+                    "mediaType": "AUDIO"
+                }
+            }
+        ],
+        "featured": [
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1DZ06evO2klCtb",
+                    "name": "This Is DaDa1k",
+                    "description": "This is DaDa1k. The essential tracks, all in one playlist.",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://thisis-images.scdn.co/37i9dQZF1DZ06evO2klCtb-default.jpg",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:playlist:37i9dQZF1E4sUQwqkx9mlV",
+                    "name": "DaDa1k Radio",
+                    "description": "",
+                    "images": {
+                        "items": [
+                            {
+                                "sources": [
+                                    {
+                                        "url": "https://seeded-session-images.scdn.co/v1/img/artist/3ZkPinm0JEOq2rxTGQvO0b/en",
+                                        "width": null,
+                                        "height": null
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "owner": {
+                        "name": "Spotify"
+                    }
+                }
+            }
+        ]
+    },
+    "tracks": {
+        "totalCount": 200,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:track:2IBrgYf3Hjw16c6oNwkZ9M",
+                    "id": "2IBrgYf3Hjw16c6oNwkZ9M",
+                    "name": "Dada (feat. Davido) [Remix]",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:0tqiftjjP81odLWXCrhmUD",
+                        "name": "Dada (feat. Davido) [Remix]",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02bb888232ebe4732a3e541031",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851bb888232ebe4732a3e541031",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273bb888232ebe4732a3e541031",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "0tqiftjjP81odLWXCrhmUD",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD?si=vUV8ZmaxQfaBOAME7f3P-Q"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+                                "profile": {
+                                    "name": "Young Jonn"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:0Y3agQaa6g2r0YmHPOO9rh",
+                                "profile": {
+                                    "name": "Davido"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 177692
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:2TSfStvlAMLw89u3tali79",
+                    "id": "2TSfStvlAMLw89u3tali79",
+                    "name": "Dah Dah DahDah",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:47Thm1tltjJVofuRumhfmi",
+                        "name": "Who is Nardo Wick?? (Deluxe)",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02b61d76c602c6234f937446c4",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851b61d76c602c6234f937446c4",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273b61d76c602c6234f937446c4",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "47Thm1tltjJVofuRumhfmi",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi?si=US3cXR6LTD-HqZ8QMAus9g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:0Njy6yR9LykNKYg9yE23QN",
+                                "profile": {
+                                    "name": "Nardo Wick"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 151776
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:6SLhDU3r8FLmESRyWZypjT",
+                    "id": "6SLhDU3r8FLmESRyWZypjT",
+                    "name": "Dada",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:0ogWb5mN0ZG6U1aMX7r4ai",
+                        "name": "Dada",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e028a6ac9a40bdbb616a1a518f4",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048518a6ac9a40bdbb616a1a518f4",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2738a6ac9a40bdbb616a1a518f4",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "0ogWb5mN0ZG6U1aMX7r4ai",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai?si=0sRFsD3RQt2op9gEm3G8Cg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:4JM1zsVj1pt38Q8mhv5teI",
+                                "profile": {
+                                    "name": "Young Jonn"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 161538
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:0LfDnBabR6TcRriJFNDL1x",
+                    "id": "0LfDnBabR6TcRriJFNDL1x",
+                    "name": "War Ready",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:7zDGdVBMWF1aow5ahxPfJl",
+                        "name": "2 Lane Road: To Glory",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e0231fe4c072e68c64508d2652d",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000485131fe4c072e68c64508d2652d",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b27331fe4c072e68c64508d2652d",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "7zDGdVBMWF1aow5ahxPfJl",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/7zDGdVBMWF1aow5ahxPfJl?si=uRPINVlJRBmEym9pnsAXPw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3ZkPinm0JEOq2rxTGQvO0b",
+                                "profile": {
+                                    "name": "DaDa1k"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 192546
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1SUeecktKzDv706GbnKjhS",
+                    "id": "1SUeecktKzDv706GbnKjhS",
+                    "name": "Da Da Da (DADADA)",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2GNihtEdqoByWHoFK7bTAt",
+                        "name": "Con Todo Respeto",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e025e2b069b2306267d474c43dd",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048515e2b069b2306267d474c43dd",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2735e2b069b2306267d474c43dd",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2GNihtEdqoByWHoFK7bTAt",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/2GNihtEdqoByWHoFK7bTAt?si=YUrwpOk0Riu_SBxVd8awnw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:27Owkm4TGlMqb0BqaEt3PW",
+                                "profile": {
+                                    "name": "Molotov"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 211706
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5HU1uQSQNk2iFRUCetRuVc",
+                    "id": "5HU1uQSQNk2iFRUCetRuVc",
+                    "name": "Dadalhin",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:7FA2otUkoGdDb1HKdom4kq",
+                        "name": "Regine Silver Series",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02b5eefa8c389a0016e2d5d0ef",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851b5eefa8c389a0016e2d5d0ef",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273b5eefa8c389a0016e2d5d0ef",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "7FA2otUkoGdDb1HKdom4kq",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/7FA2otUkoGdDb1HKdom4kq?si=1-zVhVjtSOeTllxz8CRO3Q"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3wNylAjJX1PiCpMKx8Lrfp",
+                                "profile": {
+                                    "name": "Regine Velasquez"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 298746
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:5XZkMrlZsAqY9ltgN1cN4b",
+                    "id": "5XZkMrlZsAqY9ltgN1cN4b",
+                    "name": "Da Da Da I Don't Love You You Don't Love Me Aha Aha Aha",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:2FXOLpR73ev7FPg6aHK1fJ",
+                        "name": "Triologie - The Best Of Trio",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e024894aed163c5cacb4c0c9277",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d000048514894aed163c5cacb4c0c9277",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b2734894aed163c5cacb4c0c9277",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "2FXOLpR73ev7FPg6aHK1fJ",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/2FXOLpR73ev7FPg6aHK1fJ?si=eaJAtM0tQ1CguuwbS6eskg"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:417rMeQ1e1B90lsiS1iMZ1",
+                                "profile": {
+                                    "name": "Trio"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 206400
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:31oMgUpAn5VNb3mXshUM8m",
+                    "id": "31oMgUpAn5VNb3mXshUM8m",
+                    "name": "This Time (Never Be Alone Again)",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:1A2GLRs3RpOKriqXll1KYK",
+                        "name": "Blood, Sweat & Smiles",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02c57e927c1f3b47a7bc2d1b77",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851c57e927c1f3b47a7bc2d1b77",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273c57e927c1f3b47a7bc2d1b77",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "1A2GLRs3RpOKriqXll1KYK",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/1A2GLRs3RpOKriqXll1KYK?si=r-29Hv5_RqKq_oIUOyCEYw"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:00sAT5YX8W3xNd1EuqyHw9",
+                                "profile": {
+                                    "name": "Dada Life"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 166774
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:7Gjgvy1BkQfzaciPUN5x3O",
+                    "id": "7Gjgvy1BkQfzaciPUN5x3O",
+                    "name": "My Image",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:43lKWTI9zvIZrYZyicGg4H",
+                        "name": "My Image",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02d1bcb238cbf5fd22265612c6",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851d1bcb238cbf5fd22265612c6",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273d1bcb238cbf5fd22265612c6",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "43lKWTI9zvIZrYZyicGg4H",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/43lKWTI9zvIZrYZyicGg4H?si=B-dZrs_uS8WRNsyvZXWu_g"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:3ZkPinm0JEOq2rxTGQvO0b",
+                                "profile": {
+                                    "name": "DaDa1k"
+                                }
+                            },
+                            {
+                                "uri": "spotify:artist:59aTERbB57IAL8AZ42lHNs",
+                                "profile": {
+                                    "name": "GBF King"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "EXPLICIT"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 163317
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:track:1edUPN95gftr36ux77UEH0",
+                    "id": "1edUPN95gftr36ux77UEH0",
+                    "name": "Phenomena (DA DA)",
+                    "albumOfTrack": {
+                        "uri": "spotify:album:15QbwpYJ1eVc28evQYs6UF",
+                        "name": "Out Here On A Friday Where It Began (Live) [Deluxe]",
+                        "coverArt": {
+                            "sources": [
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00001e02d4e33f41492b24cc8e6a2726",
+                                    "width": 300,
+                                    "height": 300
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d00004851d4e33f41492b24cc8e6a2726",
+                                    "width": 64,
+                                    "height": 64
+                                },
+                                {
+                                    "url": "https://i.scdn.co/image/ab67616d0000b273d4e33f41492b24cc8e6a2726",
+                                    "width": 640,
+                                    "height": 640
+                                }
+                            ]
+                        },
+                        "id": "15QbwpYJ1eVc28evQYs6UF",
+                        "sharingInfo": {
+                            "shareUrl": "https://open.spotify.com/album/15QbwpYJ1eVc28evQYs6UF?si=EgElIK_aTG6gYE00eMVaHQ"
+                        }
+                    },
+                    "artists": {
+                        "items": [
+                            {
+                                "uri": "spotify:artist:7m4gF38CPATtHrk5HS42WZ",
+                                "profile": {
+                                    "name": "Hillsong Young & Free"
+                                }
+                            }
+                        ]
+                    },
+                    "contentRating": {
+                        "label": "NONE"
+                    },
+                    "duration": {
+                        "totalMilliseconds": 154504
+                    },
+                    "playability": {
+                        "playable": true
+                    }
+                }
+            }
+        ]
+    },
+    "users": {
+        "totalCount": 10,
+        "items": [
+            {
+                "data": {
+                    "uri": "spotify:user:31ixw6pcwpwbsi7ln5rgghezv2my",
+                    "id": "31ixw6pcwpwbsi7ln5rgghezv2my",
+                    "displayName": "DaDaniatea",
+                    "username": "31ixw6pcwpwbsi7ln5rgghezv2my",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82933f699daeb25214d0b4c0ec",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85933f699daeb25214d0b4c0ec"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:1285014921",
+                    "id": "1285014921",
+                    "displayName": "dadadanyy",
+                    "username": "1285014921",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82fd95fd79ff5cae12e79fb23d",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85fd95fd79ff5cae12e79fb23d"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:dadalife",
+                    "id": "dadalife",
+                    "displayName": "dadalife",
+                    "username": "dadalife",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8278d0c12d3990396d9eb9cd07",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8578d0c12d3990396d9eb9cd07"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:mungg23",
+                    "id": "mungg23",
+                    "displayName": "Dada",
+                    "username": "mungg23",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b824ac64fa9b0ca6b416b693a4c",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee854ac64fa9b0ca6b416b693a4c"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:21efrmvryofljnhpcen7pllwi",
+                    "id": "21efrmvryofljnhpcen7pllwi",
+                    "displayName": "dada",
+                    "username": "21efrmvryofljnhpcen7pllwi",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b828ddb0c0da13cf86f318fca6f",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee858ddb0c0da13cf86f318fca6f"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:dadaattack",
+                    "id": "dadaattack",
+                    "displayName": "DaDa Attack",
+                    "username": "dadaattack",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82ed7f2b3040cc50e5c055d215",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85ed7f2b3040cc50e5c055d215"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:daanrijkers91",
+                    "id": "daanrijkers91",
+                    "displayName": "DADA",
+                    "username": "daanrijkers91",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b823a4e660e146453d24197add2",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee853a4e660e146453d24197add2"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:1155023560",
+                    "id": "1155023560",
+                    "displayName": "Dad\u00e1",
+                    "username": "1155023560",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b8251efc4353ec67f21df3dc0c6",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee8551efc4353ec67f21df3dc0c6"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:12143275810",
+                    "id": "12143275810",
+                    "displayName": "Dadado",
+                    "username": "12143275810",
+                    "image": {
+                        "smallImageUrl": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-1/10882158_10204314565678628_6191779598310745289_n.jpg?stp=cp0_dst-jpg_p50x50&_nc_cat=111&ccb=1-7&_nc_sid=dbb9e7&_nc_ohc=uqouAXzEangAX9gkVtU&_nc_ht=scontent-atl3-2.xx&edm=AP4hL3IEAAAA&oh=00_AfDT2uv3EPlypuUcS9-4pC9RgdLHR70VDclHVVgpJVPYlA&oe=64EF1C1D",
+                        "largeImageUrl": "https://scontent-atl3-2.xx.fbcdn.net/v/t1.18169-1/10882158_10204314565678628_6191779598310745289_n.jpg?stp=dst-jpg_p320x320&_nc_cat=111&ccb=1-7&_nc_sid=0c64ff&_nc_ohc=uqouAXzEangAX9gkVtU&_nc_ht=scontent-atl3-2.xx&edm=AP4hL3IEAAAA&oh=00_AfA5eM-AHejWhxP1fxK3YanvpeRrvtPcPRd_hLkIlCE5CQ&oe=64EF1C1D"
+                    }
+                }
+            },
+            {
+                "data": {
+                    "uri": "spotify:user:123ha6b0h3c1nfwzd1jco4787",
+                    "id": "123ha6b0h3c1nfwzd1jco4787",
+                    "displayName": "Dada",
+                    "username": "123ha6b0h3c1nfwzd1jco4787",
+                    "image": {
+                        "smallImageUrl": "https://i.scdn.co/image/ab67757000003b82b2afaac9279623d52eba5614",
+                        "largeImageUrl": "https://i.scdn.co/image/ab6775700000ee85b2afaac9279623d52eba5614"
+                    }
+                }
+            }
+        ]
+    }
+}
