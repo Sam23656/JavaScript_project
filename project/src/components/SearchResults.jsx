@@ -1,5 +1,5 @@
 import './SearchResults.scss'
-function Search_Results(){
+function Search_Results(props){
 
     function change_play_button(e){
         const target = e.target
@@ -19,13 +19,39 @@ function Search_Results(){
         }
     }
     
+    function create_elements(){
+        const elementsToRender = [];
+        let i = 0
+        for (let elems of props.SearchItems) {
+            if (elems !== undefined) {
+              for (let elem of elems) {
+                i++
+                if (elem.image === "null") {
+                  elementsToRender.push(null);
+                } else {
+                    console.log(elem)
+                  elementsToRender.push(
+                    <div onClick={change_play_button} className="search_result" key={i}>
+                    <img src={elem.image} className="search_result_img" alt="" />
+                    <p className="search_result_text">{elem.name}</p><i className="fa-solid fa-play fa-2xl play_icon "></i>
+                    </div>
+                  );
+                }
+              }
+            }
+          }
+        
+          return (
+            <>
+              {elementsToRender}
+            </>
+          );
+        }
+
     return(
-    <ul className="search_results">
-        <li onClick={change_play_button} className="search_result">
-            <img src="https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9" className="search_result_img" alt="" />
-            <p className="search_result_text">Text </p><i className="fa-solid fa-play fa-2xl play_icon "></i>
-        </li>
-    </ul>  
+    <div className="search_results">
+        {create_elements()}
+    </div>  
     )
 }
 

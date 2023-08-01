@@ -1,38 +1,45 @@
 $background_color:  #212425;
 
+$background_color: #212425;
+
 .search_results {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  .search_result {
-    width: 300px;
-    height: 350px;
-    background-color: $background_color;
-    border-radius: 2%;
-    text-align: center;
-    margin-top: 10px;
-    margin-right: 10px;
-  }
-  .search_result_img {
-    width: 250px;
-    height: 250px;
-    border-radius: 2%;
-    margin-top: 10px;
-    margin-left: 5px;
-    margin-right: 5px;
-  }
-  .search_result_text {
-    font-size: 35px;
-    margin-top: 2px;
-    margin-right: 170px;
-  }
-  .play_icon {
-    border-radius: 50%;
-    background-color: transparent;
-    position: relative;
-    left: 110px;
-    bottom: 65px;
-  }
+  width: 1500px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.search_result {
+  flex-basis: 50%;
+  max-width: 390px;
+  height: 390px;
+  background-color: $background_color;
+  border-radius: 2%;
+  text-align: center;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.search_result_img {
+  width: 250px;
+  height: 250px;
+  border-radius: 2%;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.search_result_text {
+  font-size: 20px;
+  margin-top: 15px; /* Add some margin to align the text properly */
+}
+
+.play_icon {
+  border-radius: 50%;
+  background-color: transparent;
+}
+
   .search_result:hover {
     box-shadow: 10px 5px 10px green;
     transition: 0.5s all ease;
