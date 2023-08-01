@@ -24,6 +24,19 @@ function Header(props){
             e.target.blur()
           }
     }
+    function change_checked(index){
+        let lst = []
+        for (let ind=0; ind < props.Filter.length; ind++){
+          lst.push(props.Filter[ind])
+          if (ind == index){
+            (props.Filter[ind].checked == true) ? props.Filter[ind].checked=false:props.Filter[ind].checked=true
+          }
+          else{
+            props.Filter[ind].checked = false
+        }
+      }
+      props.setFilter(lst)
+    }
 
     return(
         <header>
@@ -31,8 +44,16 @@ function Header(props){
         <input onKeyPress={pressKey} value={SearchText} onChange={e => setSearchText(e.target.value)} type="text" className="search_input" />
         <button onClick={search} className="search_button">Найти</button>
         </div>
+        <ul className="filters">
+            {props.Filter.map((elem, ind) =>{  
+            return(
+            <li key={ind} className="filter" onClick={(e) =>{change_checked(ind); (e.target.firstElementChild.checked == false) ? e.target.classList.add("checked") : e.target.classList.remove("checked") }}>
+                 <input type="checkbox"checked={elem.checked} onChange={() => {}}  /> {elem.name}</li>)})
+            }
+        </ul>
         </header>    
     )
 }
+
 
 export default Header
