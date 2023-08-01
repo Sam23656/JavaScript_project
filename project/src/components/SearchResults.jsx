@@ -29,7 +29,6 @@ function Search_Results(props){
                 if (elem.image === "null") {
                   elementsToRender.push(null);
                 } else {
-                    console.log(elem)
                   elementsToRender.push(
                     <div onClick={change_play_button} className="search_result" key={i}>
                     <img src={elem.image} className="search_result_img" alt="" />
