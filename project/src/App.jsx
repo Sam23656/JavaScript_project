@@ -30,7 +30,7 @@ function App() {
   return (
     <div className="main">  
         <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
-        <Search_Results SearchItems={SearchItems} />
+        <Search_Results Filter={Filter} SearchItems={SearchItems} />
     </div>
   )
 }
