@@ -26,6 +26,7 @@ function App() {
         checked:false
     }
 ])
+
   return (
     <div className="main">  
         <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
