@@ -3,7 +3,7 @@ async function Request(url){
     const options = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '759b764ad8mshbbf9fd9501251adp190f05jsnb895f2a033fc',
+            'X-RapidAPI-Key': '6d0575a6c3msh73478090d40e2b7p1312d0jsn9cdcbc3eff9f',
             'X-RapidAPI-Host': 'spotify23.p.rapidapi.com'
         }
     };

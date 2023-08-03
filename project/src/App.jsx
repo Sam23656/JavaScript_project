@@ -1,13 +1,15 @@
-import { useState } from 'react'
+import { useRef, useState } from 'react'
 import './App.scss'
 import Header from './components/Header'
 import Search_Results from './components/SearchResults'
+import AudioPlayer from './components/AudioPlayer'
+
 function App() {
   const [SearchItems, setSearchItems] = useState([])
   const [Filter, setFilter] = useState([
     {
         name:"Все",
-        checked:false
+        checked:true
     },
     {
         name:"Треки",
@@ -26,11 +28,14 @@ function App() {
         checked:false
     }
 ])
-
+  const [Sound, setSound] = useState("")
   return (
     <div className="main">  
         <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
-        <Search_Results Filter={Filter} SearchItems={SearchItems} />
+        <Search_Results setSound={setSound} Filter={Filter} SearchItems={SearchItems} />
+        <footer>
+        <AudioPlayer Sound={Sound} />
+        </footer>
     </div>
   )
 }

@@ -4,16 +4,21 @@ $background_color:  #141617;
     color: white;
   }
   
-  li {
+li {
     list-style: none;
-  }
-  body {
+}
+body {
     background-color: $background_color;
-  }
-  .main {
+}
+.main {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-  }
+}
   
+footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

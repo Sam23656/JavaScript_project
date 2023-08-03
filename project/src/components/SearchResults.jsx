@@ -1,25 +1,12 @@
 import './SearchResults.scss'
 import Get_true_filter from '../functions/Get_true_filter'
+import GetSound from '../api/GetSound';
 function Search_Results(props){
 
-    function change_play_button(e){
-        const target = e.target
-        if (target.tagName == "I"){
-            for (let target_class of target.classList){
-                if (target_class == "fa-play"){
-                    target.classList.remove("fa-play")
-                    target.classList.add("fa-pause")
-                    return
-                }
-                if (target_class == "fa-pause"){
-                    target.classList.remove("fa-pause")
-                    target.classList.add("fa-play")
-                    return
-                }
-            }
-        }
-    }
-    
+    function play_sound(uri){
+      GetSound(uri, props.setSound)
+      
+    }      
     function create_elements(){
         const elementsToRender = [];
         let i = 0
@@ -30,15 +17,13 @@ function Search_Results(props){
                 if (elem.image === "null") {   
                   if (elem.class == "Треки"){
                     elementsToRender.push(
-                      <div onClick={change_play_button} className="search_result" key={i}>
-                      <img src={elem.image} className="search_result_img" alt="" />
-                      <p className="search_result_text">{elem.name}</p><i className="fa-solid fa-play fa-2xl play_icon "></i>
+                      <div onClick={() => {play_sound(elem.uri)}} className="search_result_null" key={i}>
+                      <p className="search_result_text">{elem.name}</p>
                       </div>
                     );
                     } else {
                       elementsToRender.push(
-                        <div onClick={change_play_button} className="search_result" key={i}>
-                        <img src={elem.image} className="search_result_img" alt="" />
+                        <div className="search_result_null" key={i}>
                         <p className="search_result_text">{elem.name}</p>
                         </div>
                       );
@@ -47,14 +32,14 @@ function Search_Results(props){
                   if (elem.class == Get_true_filter(props.Filter)){
                     if (elem.class == "Треки"){
                     elementsToRender.push(
-                      <div onClick={change_play_button} className="search_result" key={i}>
+                      <div onClick={() => {play_sound(elem.uri)}} className="search_result" key={i}>
                       <img src={elem.image} className="search_result_img" alt="" />
-                      <p className="search_result_text">{elem.name}</p><i className="fa-solid fa-play fa-2xl play_icon "></i>
+                      <p className="search_result_text">{elem.name}</p>
                       </div>
                     );
                     } else {
                       elementsToRender.push(
-                        <div onClick={change_play_button} className="search_result" key={i}>
+                        <div className="search_result" key={i}>
                         <img src={elem.image} className="search_result_img" alt="" />
                         <p className="search_result_text">{elem.name}</p>
                         </div>
@@ -63,14 +48,14 @@ function Search_Results(props){
                   }else if (Get_true_filter(props.Filter) == "Все"){
                     if (elem.class == "Треки"){
                       elementsToRender.push(
-                        <div onClick={change_play_button} className="search_result" key={i}>
+                        <div onClick={() => {play_sound(elem.uri)}} className="search_result" key={i}>
                         <img src={elem.image} className="search_result_img" alt="" />
-                        <p className="search_result_text">{elem.name}</p><i className="fa-solid fa-play fa-2xl play_icon "></i>
+                        <p className="search_result_text">{elem.name}</p>
                         </div>
                       );
                       } else {
                         elementsToRender.push(
-                          <div onClick={change_play_button} className="search_result" key={i}>
+                          <div className="search_result" key={i}>
                           <img src={elem.image} className="search_result_img" alt="" />
                           <p className="search_result_text">{elem.name}</p>
                           </div>
