@@ -3,7 +3,7 @@ import Header from './Header';
 import Search_Results from './SearchResults';
 import AudioPlayer from './AudioPlayer';
 
-function Home() {
+function Home(props) {
   const [SearchItems, setSearchItems] = useState([]);
   const [Filter, setFilter] = useState([
     {
@@ -32,7 +32,7 @@ function Home() {
   return (
     <div className="main">  
       <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
-      <Search_Results setSound={setSound} Filter={Filter} SearchItems={SearchItems} />
+      <Search_Results setSound={setSound} Filter={Filter} setUri={props.setUri} SearchItems={SearchItems} />
       <footer>
         <AudioPlayer Sound={Sound} />
       </footer>

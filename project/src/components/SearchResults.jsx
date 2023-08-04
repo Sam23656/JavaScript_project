@@ -6,7 +6,14 @@ function Search_Results(props){
     function play_sound(uri){
       GetSound(uri, props.setSound)
       
-    }      
+    } 
+     function add_uri(uri, clas){
+        props.setUri({
+          name:clas,
+          uri:uri
+        })
+
+    }     
     function create_elements(){
         const elementsToRender = [];
         let i = 0
@@ -23,7 +30,7 @@ function Search_Results(props){
                     );
                     } else {
                       elementsToRender.push(
-                        <div className="search_result_null" key={i}>
+                        <div onClick={() => {add_uri(elem.uri, elem.class)}} className="search_result_null" key={i}>
                         <p className="search_result_text">{elem.name}</p>
                         </div>
                       );
@@ -39,7 +46,7 @@ function Search_Results(props){
                     );
                     } else {
                       elementsToRender.push(
-                        <div className="search_result" key={i}>
+                        <div onClick={() => {add_uri(elem.uri, elem.class)}} className="search_result" key={i}>
                         <img src={elem.image} className="search_result_img" alt="" />
                         <p className="search_result_text">{elem.name}</p>
                         </div>
@@ -55,7 +62,7 @@ function Search_Results(props){
                       );
                       } else {
                         elementsToRender.push(
-                          <div className="search_result" key={i}>
+                          <div onClick={() => {add_uri(elem.uri, elem.class)}} className="search_result" key={i}>
                           <img src={elem.image} className="search_result_img" alt="" />
                           <p className="search_result_text">{elem.name}</p>
                           </div>
