@@ -1,43 +1,15 @@
-import { useRef, useState } from 'react'
 import './App.scss'
-import Header from './components/Header'
-import Search_Results from './components/SearchResults'
-import AudioPlayer from './components/AudioPlayer'
+import Home from './components/Home'
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 
-function App() {
-  const [SearchItems, setSearchItems] = useState([])
-  const [Filter, setFilter] = useState([
-    {
-        name:"Все",
-        checked:true
-    },
-    {
-        name:"Треки",
-        checked:false
-    },
-    {
-        name:"Альбомы",
-        checked:false
-    },
-    {
-        name:"Артисты",
-        checked:false
-    },
-    {
-        name:"Плейлисты",
-        checked:false
-    }
-])
-  const [Sound, setSound] = useState("")
-  return (
-    <div className="main">  
-        <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
-        <Search_Results setSound={setSound} Filter={Filter} SearchItems={SearchItems} />
-        <footer>
-        <AudioPlayer Sound={Sound} />
-        </footer>
-    </div>
-  )
-}
+const App = () => (
+  <div className="App">
+    <Router>
+    <Routes>
+      <Route path="/" element={<Home />} />
+    </Routes>
+    </Router>
+  </div>
+);
 
-export default App
+export default App;
