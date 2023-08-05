@@ -1,0 +1,64 @@
+$background-color: #141617;
+$main-color: #212425  ;
+
+body{
+    background-color: $background-color;
+}
+.header{
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: $main-color;
+}
+.name{
+    font-size: 50px;
+
+}
+.artists{
+    font-size: 30px;
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+}
+.artist:hover{
+    text-decoration: underline;
+    transition: 0.5s all ease-in-out;
+}
+.names{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+.img{
+    width: 350px;
+    height: 350px;
+}
+.artist{
+    display: flex;
+    flex-direction: row;
+}
+
+.main2 {
+    
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; 
+    padding: 25px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-color: $main-color;
+  }
+  
+.menu2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    background-color: #181a1b;
+}
