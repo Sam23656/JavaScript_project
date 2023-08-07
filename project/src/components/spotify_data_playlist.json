@@ -1,0 +1,277 @@
+{
+    "collaborative": false,
+    "description": "",
+    "followers": {
+        "total": 3
+    },
+    "images": [
+        {
+            "height": 640,
+            "url": "https://mosaic.scdn.co/640/ab67616d0000b2736ee35072df1af802cca09918ab67616d0000b27374c46615ffd828a76c29298cab67616d0000b273e2aa84b988e58703f8ed4e84ab67616d0000b273fbf11f3850cf78b208685a54",
+            "width": 640
+        },
+        {
+            "height": 300,
+            "url": "https://mosaic.scdn.co/300/ab67616d0000b2736ee35072df1af802cca09918ab67616d0000b27374c46615ffd828a76c29298cab67616d0000b273e2aa84b988e58703f8ed4e84ab67616d0000b273fbf11f3850cf78b208685a54",
+            "width": 300
+        },
+        {
+            "height": 60,
+            "url": "https://mosaic.scdn.co/60/ab67616d0000b2736ee35072df1af802cca09918ab67616d0000b27374c46615ffd828a76c29298cab67616d0000b273e2aa84b988e58703f8ed4e84ab67616d0000b273fbf11f3850cf78b208685a54",
+            "width": 60
+        }
+    ],
+    "name": "Dada",
+    "owner": {
+        "display_name": "kayliej33",
+        "id": "kayliej33",
+        "uri": "spotify:user:kayliej33"
+    },
+    "public": true,
+    "tracks": {
+        "items": [
+            {
+                "track": {
+                    "duration_ms": 194416,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 228076,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 245920,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 203359,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 181506,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 265493,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 297103,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 255143,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 163031,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 290892,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 274520,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 210133,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 175120,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 254258,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 166101,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 246946,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 239761,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 218280,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 213493,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 285913,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 240413,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 215933,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 211480,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 182346,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 243815,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 213817,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 213320,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 211315,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 216013,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 173706,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 251510,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 267256,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 238624,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 224946,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 183533,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 268856,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 257668,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 286369,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 225826,
+                    "type": "track"
+                }
+            },
+            {
+                "track": {
+                    "duration_ms": 267893,
+                    "type": "track"
+                }
+            }
+        ],
+        "total": 40
+    },
+    "uri": "spotify:playlist:03oYFMdo2UonAyGKEi16aW"
+}

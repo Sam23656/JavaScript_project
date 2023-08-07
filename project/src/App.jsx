@@ -2,6 +2,7 @@ import './App.scss'
 import Home from './components/Home'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Album from './components/Album';
+import Playlist from './components/Playlist';
 import { useEffect, useState } from 'react';
 
 function App(){
@@ -15,6 +16,9 @@ function App(){
     if (Uri.name == "Альбомы") {
       window.location.replace(`/Album?uri=${uriString}`);
     }
+    else if (Uri.name == "Плейлисты"){
+      window.location.replace(`/Playlist?uri=${uriString}`);
+    }
   }, [Uri]); 
   return(
   <div className="App">
@@ -22,6 +26,7 @@ function App(){
     <Routes>
       <Route path="/" element={<Home   setUri={setUri}/>} />
       <Route path="/Album" element={<Album/>} />
+      <Route path='/Playlist' element={<Playlist />} />
     </Routes>
     </Router>
   </div>
