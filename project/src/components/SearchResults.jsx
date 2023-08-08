@@ -21,21 +21,6 @@ function Search_Results(props){
             if (elems !== undefined) {
               for (let elem of elems) {
                 i++
-                if (elem.image === "null") {   
-                  if (elem.class == "Треки"){
-                    elementsToRender.push(
-                      <div onClick={() => {play_sound(elem.uri)}} className="search_result_null" key={i}>
-                      <p className="search_result_text">{elem.name}</p>
-                      </div>
-                    );
-                    } else {
-                      elementsToRender.push(
-                        <div onClick={() => {add_uri(elem.uri, elem.class)}} className="search_result_null" key={i}>
-                        <p className="search_result_text">{elem.name}</p>
-                        </div>
-                      );
-                    }
-                } else { 
                   if (elem.class == Get_true_filter(props.Filter)){
                     if (elem.class == "Треки"){
                     elementsToRender.push(
@@ -44,7 +29,8 @@ function Search_Results(props){
                       <p className="search_result_text">{elem.name}</p>
                       </div>
                     );
-                    } else {
+                    } 
+                    else {
                       elementsToRender.push(
                         <div onClick={() => {add_uri(elem.uri, elem.class)}} className="search_result" key={i}>
                         <img src={elem.image} className="search_result_img" alt="" />
@@ -70,7 +56,7 @@ function Search_Results(props){
                       }
                   }
                   
-                }
+                
               }
             }
           }

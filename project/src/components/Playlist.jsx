@@ -1,9 +1,9 @@
-import './Playlist.scss';
 import { useLocation } from 'react-router';
 import Request from '../api/Request';
 import AudioPlayer from './AudioPlayer';
 import { useEffect, useState } from 'react';
 import GetSound from '../api/GetSound';
+import OpenPage from '../functions/OpenPage';
 
 function Playlist(){
     const location = useLocation();
@@ -48,6 +48,7 @@ function Playlist(){
         <>
           {playlistSongs ? (
             <>
+            <button className='OpenMain' onClick={() => OpenPage("Главная", "")}>На главную</button>
               <header className='header'>
                 <img className='img' src={playlist.images[1].url} alt="" />
                 <div className='names'>
@@ -68,7 +69,7 @@ function Playlist(){
                       </div>
                       <div className='track-artists'>
                         {elem.track.artists.map((artist) => (
-                          <p key={artist.id} className='track-artist'>{artist.name}</p>
+                          <p onClick={() => {OpenPage("Артисты",artist.id)}} key={artist.id} className='track-artist'>{artist.name}</p>
                         ))}
                       </div>
                     </div>

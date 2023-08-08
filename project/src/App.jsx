@@ -3,6 +3,7 @@ import Home from './components/Home'
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Album from './components/Album';
 import Playlist from './components/Playlist';
+import Artist from './components/Artist';
 import { useEffect, useState } from 'react';
 
 function App(){
@@ -19,6 +20,9 @@ function App(){
     else if (Uri.name == "Плейлисты"){
       window.location.replace(`/Playlist?uri=${uriString}`);
     }
+    else if (Uri.name == "Артисты"){
+      window.location.replace(`/Artist?uri=${uriString}`);
+    }
   }, [Uri]); 
   return(
   <div className="App">
@@ -27,6 +31,7 @@ function App(){
       <Route path="/" element={<Home   setUri={setUri}/>} />
       <Route path="/Album" element={<Album/>} />
       <Route path='/Playlist' element={<Playlist />} />
+      <Route path='/Artist' element={<Artist />} />
     </Routes>
     </Router>
   </div>

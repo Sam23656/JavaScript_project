@@ -41,7 +41,7 @@ function Adapt_Search_Items(Items, flag){
                     class: "Плейлисты",
                     uri:Items[i].data.uri.replace("spotify:playlist:", ""),
                     name:Items[i].data.name,
-                    image: (Items[i].data.images.items.lenght > 1) ? Items[i].data.images.items.sources[2].url : "null"
+                    image: (Items[i].data.images.items[0].sources.lenght != 0) ? Items[i].data.images.items[0].sources[0].url : "null"
             })
         }
         }

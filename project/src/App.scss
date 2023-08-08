@@ -1,5 +1,5 @@
 $background_color:  #141617;
-
+$main-color: #212425  ;
 * {
     color: white;
   }
@@ -24,4 +24,20 @@ footer{
   position: fixed;
   bottom: 0;
   width: 100%;
+}
+img{
+  padding: 5px;
+  border-radius: 10px;
+}
+.OpenMain{
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+
 }

@@ -4,6 +4,7 @@ import Request from '../api/Request';
 import AudioPlayer from './AudioPlayer';
 import { useEffect, useState } from 'react';
 import GetSound from '../api/GetSound';
+import OpenPage from '../functions/OpenPage';
 
 function Album(props) {
   const location = useLocation();
@@ -38,13 +39,14 @@ function Album(props) {
     <>
       {album ? (
         <>
+        <button className='OpenMain' onClick={() => OpenPage("Главная", "")}>На главную</button>
           <header className='header'>
             <img className='img' src={album.images[1].url} alt="" />
             <div className='names'>
               <h3 className='name'>{album.name}</h3>
               <div className='artist'>
                 {album.artists.map((elem) => (
-                  <a href='' className='artists' key={elem.id}>{elem.name}</a>
+                  <a onClick={() => {OpenPage("Артисты",elem.id)}} className='artists' key={elem.id}>{elem.name}</a>
                 ))}
               </div>
             </div>
@@ -60,7 +62,7 @@ function Album(props) {
                   </div>
                   <div className='track-artists'>
                     {elem.artists.map((artist) => (
-                      <p key={artist.id} className='track-artist'>{artist.name}</p>
+                      <p onClick={() => {OpenPage("Артисты",elem.id)}} key={artist.id} className='track-artist'>{artist.name}</p>
                     ))}
                   </div>
                 </div>

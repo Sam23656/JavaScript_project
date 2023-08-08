@@ -1,38 +1,48 @@
-import React, { useState } from 'react';
-import Header from './Header';
-import Search_Results from './SearchResults';
-import AudioPlayer from './AudioPlayer';
+import React, { useState } from "react";
+import Header from "./Header";
+import Search_Results from "./SearchResults";
+import AudioPlayer from "./AudioPlayer";
 
 function Home(props) {
   const [SearchItems, setSearchItems] = useState([]);
   const [Filter, setFilter] = useState([
     {
       name: "Все",
-      checked: true
+      checked: true,
     },
     {
       name: "Треки",
-      checked: false
+      checked: false,
     },
     {
       name: "Альбомы",
-      checked: false
+      checked: false,
     },
     {
       name: "Артисты",
-      checked: false
+      checked: false,
     },
     {
       name: "Плейлисты",
-      checked: false
-    }
+      checked: false,
+    },
   ]);
   const [Sound, setSound] = useState("");
 
   return (
-    <div className="main">  
-      <Header Filter={Filter} setFilter={setFilter} SearchItems={SearchItems} setSearchItems={setSearchItems} />
-      <Search_Results setSound={setSound} Filter={Filter} setUri={props.setUri} SearchItems={SearchItems} />
+    <div className="main">
+      <Header
+        Filter={Filter}
+        setFilter={setFilter}
+        SearchItems={SearchItems}
+        setSearchItems={setSearchItems}
+      />
+      <Search_Results
+        setSound={setSound}
+        Filter={Filter}
+        setUri={props.setUri}
+        SearchItems={SearchItems}
+      />
       <footer>
         <AudioPlayer Sound={Sound} />
       </footer>
