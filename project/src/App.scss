@@ -37,7 +37,17 @@ img{
   margin-left: 10px;
   margin-right: 10px;
   margin-bottom: 10px;
-  border: 1px solid black;
-  border-radius: 10px;
+  background-color: $background_color;
+  border: none;
+  width: 200px;
+  height: 55px;
+  border-radius: 2px;
+  border: none;
+  background-color: #212425;
 
+}
+.OpenMain:hover {
+  cursor: pointer;
+  box-shadow: 2px 2px 10px green;
+  transition: 0.5s all ease;
 }

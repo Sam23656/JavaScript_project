@@ -51,6 +51,7 @@ $background_color:  #212425;
 }
 
   .search_result:hover, .search_result_null:hover {
+    cursor: pointer;
     box-shadow: 10px 5px 10px green;
     transition: 0.5s all ease;
     

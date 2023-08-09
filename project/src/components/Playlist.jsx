@@ -61,6 +61,7 @@ function Playlist(){
               
               <main className='main2'>
                 <div className='tracks'>
+                <p>Треки</p>
                 {playlistSongs.map((elem) => (
                     <div onClick={() => play_sound(elem.track.id)} key={elem.track.id} className='track'>
                       <div className='track-name-time'>

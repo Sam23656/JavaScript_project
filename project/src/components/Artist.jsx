@@ -30,15 +30,17 @@ function Artist(){
     useEffect(() => {
         if (artist == null) {
           add_search_results();
+
         }
       }, []);
       return (
         <>
-          {artist ? (
+
+          {artist && artist.artist ? (
             <>
               <button className='OpenMain' onClick={() => OpenPage("Главная", "")}>На главную</button>
               <header className='header'>
-                <img className='img' src={(artist.artist.visuals.avatarImage != null) ? artist.artist.visuals.avatarImage.sources[1].url: ""} alt="" />
+                <img className='img' src={(artist.artist) ? artist.artist.visuals.avatarImage.sources[1].url: ""} alt="" />
                 <div className='names'>
                   <h3 className='name'>{artist.artist.profile.name}</h3>
                 </div>

@@ -25,6 +25,7 @@ body{
     text-decoration: none;
 }
 .artists:hover{
+    cursor: pointer;
     text-decoration: underline;
     transition: 0.5s all ease-in-out;
 }
@@ -71,6 +72,7 @@ body{
     padding-left: 10px;
 }
 .track:hover{
+    cursor: pointer;
     box-shadow: 2px 2px 10px green;
     transition: 0.5s all ease;
 }
@@ -91,6 +93,7 @@ body{
     display: flex;
 }
 .track-artist:hover{
+    cursor: pointer;
     text-decoration:underline;
     transition: 0.5s all ease;
 }
