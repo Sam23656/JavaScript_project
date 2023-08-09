@@ -50,7 +50,7 @@ function Playlist(){
             <>
             <button className='OpenMain' onClick={() => OpenPage("Главная", "")}>На главную</button>
               <header className='header'>
-                <img className='img' src={playlist.images[1].url} alt="" />
+                <img className='img' src={playlist.images[0].url} alt="" />
                 <div className='names'>
                   <h3 className='name'>{playlist.name}</h3>
                   <div className='user'>
@@ -83,7 +83,11 @@ function Playlist(){
               </footer>
             </>
           ) : (
-            <div>Loading...</div>
+            <div className="loader">
+            <div className="inner one"></div>
+            <div className="inner two"></div>
+            <div className="inner three"></div>
+            </div>
           )}
         </>
       );

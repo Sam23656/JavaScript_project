@@ -3,7 +3,6 @@ import Request from '../api/Request';
 import './Artist.scss';
 import AudioPlayer from './AudioPlayer';
 import { useEffect, useState } from 'react';
-
 import GetSound from '../api/GetSound';
 import OpenPage from '../functions/OpenPage';
 
@@ -82,7 +81,11 @@ function Artist(){
               </footer>
             </>
           ) : (
-            <div>Loading...</div>
+            <div className="loader">
+            <div className="inner one"></div>
+            <div className="inner two"></div>
+            <div className="inner three"></div>
+          </div>
           )}
         </>
       );

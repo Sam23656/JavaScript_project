@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 import GetSound from '../api/GetSound';
 import OpenPage from '../functions/OpenPage';
 
-function Album(props) {
+function Album() {
   const location = useLocation();
   const searchParams = new URLSearchParams(location.search);
   const uriString = searchParams.get('uri');
@@ -62,7 +62,7 @@ function Album(props) {
                   </div>
                   <div className='track-artists'>
                     {elem.artists.map((artist) => (
-                      <p onClick={() => {OpenPage("Артисты",elem.id)}} key={artist.id} className='track-artist'>{artist.name}</p>
+                      <p onClick={() => {OpenPage("Артисты",artist.id)}} key={artist.id} className='track-artist'>{artist.name}</p>
                     ))}
                   </div>
                 </div>
@@ -75,7 +75,11 @@ function Album(props) {
           </footer>
         </>
       ) : (
-        <div>Loading...</div>
+        <div className="loader">
+          <div className="inner one"></div>
+          <div className="inner two"></div>
+          <div className="inner three"></div>
+        </div>
       )}
     </>
   );
